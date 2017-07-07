@@ -1,0 +1,9 @@
+{
+  "name": "pattern",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "3.2",
+    "normalize-css": "normalize.css#^7.0.0",
+    "tooltipster": "^4.2.5"
+  }
+}
